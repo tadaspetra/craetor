@@ -1,2 +1,2 @@
 # craetor
-Social Network for Creatives
+Social Network for Creators
